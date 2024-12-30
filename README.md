@@ -1,6 +1,6 @@
 # foodly
 
-Food ordering app.
+This project offers types of fast food & drinks, ordering through the app, and purchasing through it . An application that displays some restaurants and their products. Through the application, you can order products in the quantities you want to buy and calculate the price of the products that have been selected. 
 
 ## Getting Started
 
